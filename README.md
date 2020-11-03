@@ -1,4 +1,4 @@
-# LRGCCF
+# LRGCCF-AAAI2020
 
 Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
 
